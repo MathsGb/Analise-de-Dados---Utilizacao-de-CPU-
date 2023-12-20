@@ -1,0 +1,3 @@
+Tempo (s),cpu_porcentagem_pc,memory_data_used_pc,memory_data_porcentagem_pc,cpu_porcentagem_processo,memory_data_used_processo,memory_data_porcentagem_processo,swap_data_porcentagem,converted_size,disk_uso_total,disk_uso_processo
+0,83.6,4367900672,66.0,68.19999999999999,35962880,0.4000000000000057,23.2,0,74.76264268566423,-0.00021209245295494839
+1,54.6,4341489664,65.8,39.2,9551872,0.20000000000000284,23.2,0,74.76364497706128,0.0007901989440881607
